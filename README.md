@@ -1,3 +1,3 @@
 ### 👋 Hi, I'm Marina Tetzlaff
 
-I work at the intersection of **data analysis and statistics to create practical visualizations and data modeling**. I am currently a Senior Data Analyst at Naranja X helping business users develop data insights and gain more insights from their data.
+Trabajo en la intersección del **análisis de datos y las estadísticas para crear visualizaciones prácticas y modelado de datos.** Actualmente soy analista de datos sénior en Naranja X y ayudo a los usuarios comerciales a desarrollar conocimientos de datos y obtener más conocimientos a partir de sus datos.
